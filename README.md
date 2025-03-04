@@ -1,3 +1,6 @@
+## Support Me
+If you find Reverse Goal Tracker helpful, buy me a coffee to fuel more tinkering! ☕ [Support Me](https://buymeacoffee.com/AviTinkerX)
+
 # Reverse Goal Tracker
 A simple numerical goal tracker for teams.
 
