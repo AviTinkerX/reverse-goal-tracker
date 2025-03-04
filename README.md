@@ -5,7 +5,7 @@ A simple numerical goal tracker for teams.
 [Live Demo](https://timely-fairy-d29bc9.netlify.app/) 
 
 ## Download
-[reverse-goal-tracker.html](reverse-goal-tracker.html)
+[reverse-goal-tracker](index.html)
 
 ## How to Use
 1. Set a goal (e.g., $1000).
