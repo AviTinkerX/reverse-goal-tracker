@@ -2,7 +2,7 @@
 A simple numerical goal tracker for teams.
 
 ## Try It Live
-[Live Demo](https://your-tracker.netlify.app) *(replace with your Netlify URL)*
+[Live Demo](https://timely-fairy-d29bc9.netlify.app/) 
 
 ## Download
 [reverse-goal-tracker.html](reverse-goal-tracker.html)
